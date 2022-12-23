@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Ryzxel"><img src="http://readme-typing-svg.herokuapp.com?color=b82323&center=true&vCenter=true&multiline=false&lines=Open+source+100%;Free+deckk" alt="Asu"></a>
+  <a href="https://github.com/Ryzxel"><img src="http://readme-typing-svg.herokuapp.com?color=b82323&center=true&vCenter=true&multiline=false&lines=Welcome+to+my+github;Kenalin+nama+gw+Harry" alt="Asu"></a>
 </p>
 <a href="https://r.mtdv.me/xuEfRWXsMt"><img src="https://github.com/Xorizn/Xorizn/blob/main/image/82224a74e14c9e7ac659e13b58bad1ec.jpg" /></a>
 
